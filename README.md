@@ -142,20 +142,8 @@ being developed along the way.
 
 <div align="center">
 
-## Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kizuchann&theme=github-compact&hide_border=true&area=true" width="96%" alt="GitHub activity">
-
-</div>
-
-<br>
-
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&animation=twinkling&color=0:536DFE,50:17213A,100:0B0F19" width="100%" alt="Footer">
 
 <br>
-
-<sub>Building things I actually want to use.</sub>
 
 </div>
