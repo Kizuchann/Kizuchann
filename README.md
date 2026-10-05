@@ -1,26 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&text=Akihiko%20K.&fontSize=62&fontColor=FFFFFF&fontAlignY=42&animation=twinkling&color=0:0B0F19,50:17213A,100:536DFE" width="100%" alt="Akihiko K.">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Akihiko%20K.&fontSize=62&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&color=0:0B0F19,50:17213A,100:536DFE&desc=Kizuchann%20%C2%B7%20Kizuki%20%C2%B7%20Python%20Developer%20%C2%B7%20Linux&descSize=17&descAlignY=61&descColor=9EDCFF" width="100%" alt="Akihiko K.">
 
 <br>
 
-### Kizuchann · Kizuki
-
-`Python Developer` · `Linux` · `IT Projects`
-
-<br><br>
-
 <a href="https://t.me/kizuchann">
-<img src="https://img.shields.io/badge/Telegram-229ED9?style=flat-square&logo=telegram&logoColor=white" alt="Telegram">
+<img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" height="34" alt="Telegram">
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://www.youtube.com/@Kizuchann">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="34" alt="YouTube">
 </a>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=536DFE" width="65%" alt="">
 
 </div>
 
