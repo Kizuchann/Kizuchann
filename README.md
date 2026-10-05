@@ -1,6 +1,5 @@
 <div align="center">
 
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Akihiko%20K.&fontSize=62&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&color=0:0B0F19,50:17213A,100:536DFE&desc=Kizuchann%20%C2%B7%20Kizuki%20%C2%B7%20Python%20Developer%20%C2%B7%20Linux&descSize=17&descAlignY=61&descColor=9EDCFF" width="100%" alt="Akihiko K.">
 
 <br>
